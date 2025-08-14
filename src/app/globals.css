@@ -50,13 +50,11 @@ body {
 }
 
 .about-page a {
-  color: #ffe066;
   text-decoration: underline;
   transition: color 0.2s;
 }
 
 .about-page a:hover {
-  color: #fff;
   background: #b31217;
   border-radius: 4px;
   padding: 0 0.3em;

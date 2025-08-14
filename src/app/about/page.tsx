@@ -9,7 +9,7 @@ export default function About() {
         pursuing a bachelor's in computer science with an emphasis in software engineering.
       </p>
       <p>
-        <a href="https://github.com/dmich-dev" target="_blank" rel="noopener noreferrer">
+        <a className="text-[#ffe066] hover:text-white" href="https://github.com/dmich-dev" target="_blank" rel="noopener noreferrer">
           github link!
         </a>
       </p>
